@@ -1,0 +1,7 @@
+{
+  "name": "InventoryAssist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
